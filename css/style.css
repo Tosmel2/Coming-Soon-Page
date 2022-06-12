@@ -298,7 +298,7 @@ h2.txt-w3_agile {
     width: 200px;
 }
 .peersapp{
-    font-size: 3em;
+    font-size: 3.5em;
     color: #fff;
     font-weight: 600;
     margin-top: -70px;
@@ -464,7 +464,7 @@ a.social_dribble:hover {
 @media screen and (max-width: 1440px) {
     h2.txt-w3_agile {
         font-size: 3.8em;
-        padding-top: 1em;
+        padding-top: 0.3em;
     }
     .footer p {
         padding-bottom: 2em;
