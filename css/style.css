@@ -134,7 +134,7 @@ a {
 .container {
     width: 50%;
     margin: auto;
-    padding: 3.3em 0 0;
+    /* padding: 3.3em 0 0; */
 }
 
 
@@ -145,7 +145,12 @@ h2.txt-w3_agile {
     font-weight: 600;
     margin: 0.8em 0;
 }
-
+.nav-faqs{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5em 2em;
+    background-color: #0A4076;
+}
 .logo{
     /* border: 2px solid #fff; */
     height: 200px;
@@ -435,3 +440,4 @@ a.social_dribble:hover {
         width: 75%;
     }
 }
+
