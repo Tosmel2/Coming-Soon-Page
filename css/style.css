@@ -153,8 +153,9 @@ h2.txt-w3_agile {
 }
 .logo{
     /* border: 2px solid #fff; */
-    height: 200px;
-    width: 200px;
+    height: 80px;
+    width: 80px;
+    padding: 50px;
 }
 .peersapp{
     font-size: 3em;
